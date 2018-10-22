@@ -1,0 +1,10 @@
+C:\Users\Jakyyy\source\repos\objektno\objektno\bin\Debug\objektno.exe.config
+C:\Users\Jakyyy\source\repos\objektno\objektno\bin\Debug\objektno.exe
+C:\Users\Jakyyy\source\repos\objektno\objektno\bin\Debug\objektno.pdb
+C:\Users\Jakyyy\source\repos\objektno\objektno\obj\Debug\objektno.csprojAssemblyReference.cache
+C:\Users\Jakyyy\source\repos\objektno\objektno\obj\Debug\objektno.Form1.resources
+C:\Users\Jakyyy\source\repos\objektno\objektno\obj\Debug\objektno.Properties.Resources.resources
+C:\Users\Jakyyy\source\repos\objektno\objektno\obj\Debug\objektno.csproj.GenerateResource.cache
+C:\Users\Jakyyy\source\repos\objektno\objektno\obj\Debug\objektno.csproj.CoreCompileInputs.cache
+C:\Users\Jakyyy\source\repos\objektno\objektno\obj\Debug\objektno.exe
+C:\Users\Jakyyy\source\repos\objektno\objektno\obj\Debug\objektno.pdb
